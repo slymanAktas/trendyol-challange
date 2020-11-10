@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fd8ed40-0cdd-4a2b-b3c4-7192e2a4c63d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/services/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/StringUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/BaseServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/BookTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ui/browser/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ui/browser/Browser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ui/pages/BoutiqueDetailPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ui/pages/BoutiqueDetailPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ui/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ui/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/properties/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/properties/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/BaseUITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/BaseUITest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/BoutiqueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/BoutiqueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config/Config.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/properties/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/properties/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/screenshots/shouldLoadImagesThenAddBasketSuccesfully.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/screenshots/shouldLoadImagesThenAddBasketSuccesfully.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/screenshots/shouldSeeAllBoutiqueImagesHaveBeenLoaded.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/screenshots/shouldSeeAllImagesHaveBeenLoadedForEveryBoutiques.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/screenshots/shouldSeeAllImagesHaveBeenLoadedForRandomBoutiqueDetail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ui/browser/Browser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ui/browser/Browser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ui/pages/BoutiqueDetailPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ui/pages/BoutiqueDetailPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ui/pages/HomePage$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ui/pages/HomePage$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ui/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ui/pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/utils/TestException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ui/BaseUITest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ui/BaseUITest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ui/BaseUITest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ui/BaseUITest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ui/BoutiqueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ui/BoutiqueTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="2fd8ed40-0cdd-4a2b-b3c4-7192e2a4c63d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/api/BookTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="61" column="5" lean-forward="true" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+            <state relative-caret-position="521">
+              <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,7 +54,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -197,7 +170,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605007734265" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605008838919" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -332,7 +305,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604908297945</updated>
       <workItem from="1604908300060" duration="35515000" />
-      <workItem from="1604998641093" duration="6592000" />
+      <workItem from="1604998641093" duration="7062000" />
     </task>
     <servers />
   </component>
@@ -369,12 +342,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42107000" />
+    <option name="totallyTimeSpent" value="42577000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20757021" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20757021" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -383,7 +356,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291536" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.15569489" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.29885057" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.48380354" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -391,7 +364,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4993895" weight="0.3291536" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4993895" visible="true" weight="0.3291536" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50061053" side_tool="true" weight="0.3291536" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3291536" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -846,8 +819,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/api/BookTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="61" column="5" lean-forward="true" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+        <state relative-caret-position="521">
+          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
