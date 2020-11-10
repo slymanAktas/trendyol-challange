@@ -35,8 +35,8 @@ public class Page extends Browser {
         int elementListSize = browser.findElements(elementList).size();
 
         for (int i = 0; i < elementListSize; i++) {
-            WebElement eachBoutique = browser.findElements(elementList).get(i); //In case of stale element exception
-            List<HarEntry> entries = getNetworkActivities(eachBoutique);
+            WebElement event = browser.findElements(elementList).get(i); //In case of stale element exception
+            List<HarEntry> entries = getNetworkActivities(event);
 
             for (HarEntry entry : entries) {
                 String eachUrl = entry.getRequest().getUrl();
