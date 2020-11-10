@@ -16,8 +16,8 @@ public abstract class Chrome extends Browser implements Initialize {
 
     @Override
     public WebDriver initInLocal() {
-//        ChromeDriverManager.getInstance().setup();
-        ChromeDriverManager.getInstance().version("86.0.4240.22").setup();
+        ChromeDriverManager.getInstance().setup();
+//        ChromeDriverManager.getInstance().version("86.0.4240.22").setup();
         driver = new ChromeDriver(getOptions());
         driver.get(Config.TRENDYOL);
         driver.manage().window().maximize();
